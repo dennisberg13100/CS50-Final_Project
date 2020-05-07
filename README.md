@@ -12,3 +12,15 @@ I will also publish it under MIT license, that allows all the people to use and 
 
 ## How to use it
 
+* You can visit the site on https://dennisberg13100.github.io/CS50-Final_Project/. You will be recived with a welcome screen. Just click on the START button and begin writing your code on the Frontend Sandbox.
+* There will be three tabs on the left side of the screen:
+  * HTML - Here you can write de structure of your website.
+  * CSS - Here you can give your website a bit color and style.
+  * JS - Here you can let your website interactive using javaScript and jQuery commands.
+* There is also a "X" on the righr side of the tabs, to hide the tabs so that you can see you website full-screen.
+* To show the codeing tabs again you can click on the floating "</>" button on the top left of the site. 
+* You can clone the repository to your own computer to use it ofline, to change it or to include it on your own project using using the following terminal command: 
+```git clone https://github.com/dennisberg13100/CS50-Final_Project.git``` 
+
+## Conclusion
+

@@ -31,3 +31,6 @@ From a start with Scratch on the first week to understand variables, functions a
 My chosen path was Web, because that is what I like and the reason why I started to code. The basic frontend codes (tags and functions) are quite simple to understand, but when you start to go deeper in css like understanding differences between margin and padding and start working wit flexbox, grid or positions arguments it can get a bit tricky. DOM manipulation with javaScript can be a big challenge as well. I really believe that having a tool that allows someone to see the changes happening while he writes his code will help him to understand faster this tricky and challenging parts.
 
 I would like to thank David J. Malan, Brian Yu, Doug Lloyd and all the other involved in this project for their wonderfull work and I hope to see you guys soon in CS50's Introduction to Artificial Intelligence with Python.
+
+
+![CS50 certificate](./CS50x certificate.png)

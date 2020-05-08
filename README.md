@@ -33,4 +33,4 @@ My chosen path was Web, because that is what I like and the reason why I started
 I would like to thank David J. Malan, Brian Yu, Doug Lloyd and all the other involved in this project for their wonderfull work and I hope to see you guys soon in CS50's Introduction to Artificial Intelligence with Python.
 
 
-![CS50 certificate](./CS50x certificate.png)
+![CS50 certificate](CS50xcertificate.png)

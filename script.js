@@ -1,4 +1,10 @@
 $(function(){
+	// clean all when the page is refreshed
+		$(".site").html($('#html').val());
+		let css = $('#css').val();
+		let css2 = css.replace("body", ".site");
+		$("style").html(css2);
+		$('.action').html('<script type="text/javascript">'+$('#js').val()+'</script>');
 
 	// First standart tab
 	$('#html').show();
